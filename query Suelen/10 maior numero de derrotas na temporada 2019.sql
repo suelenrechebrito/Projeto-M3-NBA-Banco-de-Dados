@@ -1,4 +1,5 @@
 /*
+-- # Referente os 10 times com maior numero de derrotas na temporada de 2019.
 -- Query: SELECT 
 TEAM,
 STANDINGSDATE,
