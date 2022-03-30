@@ -1,4 +1,5 @@
 /*
+-- # Referente separação dos times por região
 -- Query: SELECT 
 conference,
 count(TEAM_ID)

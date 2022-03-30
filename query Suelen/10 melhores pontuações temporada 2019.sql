@@ -1,11 +1,12 @@
 /*
+-- # Referente os 10 times com maior numero de vitorias na temporada de 2019.
 -- Query: SELECT 
 TEAM,
 STANDINGSDATE,
 W AS Ganhadores
 FROM newschema.ranking
 WHERE STANDINGSDATE BETWEEN '2020-03-01' AND '2020-03-01'
-ORDER BY Ganhadores DESC
+ORDER BY Ganhadores ASC
 limit 10
 -- Date: 2022-03-24 23:09
 */
