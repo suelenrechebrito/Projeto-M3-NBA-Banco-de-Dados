@@ -1,4 +1,5 @@
 /*
+-- # Referente ao numero de jogos que o Celtics recebeu os jogos com nova coluna descrito de quem foi a vitoria no confronto
 -- Query: SELECT 
 SEASON AS ESTACAO,
 case

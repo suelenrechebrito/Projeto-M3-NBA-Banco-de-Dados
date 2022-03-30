@@ -1,4 +1,5 @@
 /*
+-- # Referente aos 10 times com mais jogos na ultima atualização da temporada 2019.
 -- Query: SELECT 
 teams.nickname,
 teams.TEAM_ID,

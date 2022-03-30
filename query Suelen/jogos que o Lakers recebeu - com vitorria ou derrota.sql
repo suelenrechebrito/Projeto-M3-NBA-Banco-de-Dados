@@ -1,4 +1,5 @@
 /*
+-- # Referente ao numero de jogos que o Lakers recebeu os jogos com nova coluna descrito de quem foi a vitoria no confronto
 -- Query: sELECT
 game_id,
 season,

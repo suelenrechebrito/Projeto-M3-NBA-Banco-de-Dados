@@ -1,4 +1,5 @@
 /*
+-- # Referente ao numero de jogos que houve confronto entre Lakers e Celtics por temporada
 -- Query: SELECT 
 SEASON as TEMPORADA,
 count(*)
