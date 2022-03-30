@@ -32,8 +32,10 @@
 
 ## Acesso ao projeto
 
-### Para visualizar o nosso projeto clique [BancoNBA]
+### Para visualizar o nosso projeto clique [BancoNBA](https://suelenrechebrito.github.io/Projeto-M3-NBA-Banco-de-Dados/)
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/83088090?v=4" width=100><br><sub>Bruna Leardini</sub>](https://github.com/bleardini) | [<img src="https://avatars.githubusercontent.com/u/32878457?v=4" width=100><br><sub>Raphael José</sub>](https://github.com/raphael-jose) |[<img src="https://avatars.githubusercontent.com/u/96270256?s=96&v=4" width=100><br><sub>Suelen Reche</sub>](https://github.com/suelenrechebrito) | 
+<img src="https://avatars.githubusercontent.com/u/83088090?v=4" width=100 margin=20px>  <img src="https://avatars.githubusercontent.com/u/96270246?v=4" width=100>   <img src="https://avatars.githubusercontent.com/u/32878457?v=4" width=100>   <img src="https://avatars.githubusercontent.com/u/96270256?s=96&v=4" width=100>
+<br>
+[Bruna Leardini](https://github.com/bleardini)  [Douglas Mont.](https://github.com/DougMont)  [Raphael José](https://github.com/raphael-jose)  [Suelen Reche](https://github.com/suelenrechebrito) 
